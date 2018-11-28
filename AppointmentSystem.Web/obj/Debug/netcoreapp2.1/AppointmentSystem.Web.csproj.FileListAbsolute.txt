@@ -1,0 +1,16 @@
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.deps.json
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.runtimeconfig.json
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.runtimeconfig.dev.json
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.pdb
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Data.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Service.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Data.pdb
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Service.pdb
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csprojAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csproj.CoreCompileInputs.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.AssemblyInfoInputs.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.AssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csproj.CopyComplete
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.pdb
