@@ -1,0 +1,12 @@
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.deps.json
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.pdb
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.pdb
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csprojAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csproj.CoreCompileInputs.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.AssemblyInfoInputs.cache
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.AssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csproj.CopyComplete
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.dll
+D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.pdb

@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.deps.json
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.dll
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.runtimeconfig.json
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.runtimeconfig.dev.json
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.pdb
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.dll
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.pdb
+C:\Users\HP\Desktop\RushHour\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.csprojResolveAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.deps.json
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.runtimeconfig.json
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.runtimeconfig.dev.json
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.dll
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\bin\Debug\netcoreapp2.0\RushHour.Data.pdb
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.csprojAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.csproj.CoreCompileInputs.cache
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.AssemblyInfoInputs.cache
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.AssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.dll
+D:\Georgi\Събитийно програмиране\project\RushHour\RushHour.Data\obj\Debug\netcoreapp2.0\RushHour.Data.pdb
