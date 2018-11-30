@@ -4423,11 +4423,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj",
+      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj",
       "projectName": "AppointmentSystem.Data",
-      "projectPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj",
+      "projectPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Data\\obj\\",
+      "outputPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13834,11 +13834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Web\\AppointmentSystem.Web.csproj",
+      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Web\\AppointmentSystem.Web.csproj",
       "projectName": "AppointmentSystem.Web",
-      "projectPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Web\\AppointmentSystem.Web.csproj",
+      "projectPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Web\\AppointmentSystem.Web.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Web\\obj\\",
+      "outputPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13857,11 +13857,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj": {
-              "projectPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj"
+            "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj": {
+              "projectPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Data\\AppointmentSystem.Data.csproj"
             },
-            "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Service\\AppointmentSystem.Service.csproj": {
-              "projectPath": "D:\\Georgi\\Събитийно програмиране\\project\\AppointmentSystem\\AppointmentSystem.Service\\AppointmentSystem.Service.csproj"
+            "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Service\\AppointmentSystem.Service.csproj": {
+              "projectPath": "D:\\Georgi\\Събитийно програмиране\\AppointmentSystem\\AppointmentSystem.Service\\AppointmentSystem.Service.csproj"
             }
           }
         }
