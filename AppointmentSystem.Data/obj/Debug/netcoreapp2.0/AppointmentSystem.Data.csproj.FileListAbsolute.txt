@@ -9,3 +9,14 @@ D:\Georgi\Събитийно програмиране\project\AppointmentSystem\
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.AssemblyInfo.cs
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.dll
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.deps.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.runtimeconfig.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.runtimeconfig.dev.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.csprojAssemblyReference.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.AssemblyInfo.cs
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Data\obj\Debug\netcoreapp2.0\AppointmentSystem.Data.pdb

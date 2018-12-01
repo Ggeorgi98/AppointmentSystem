@@ -14,3 +14,19 @@ D:\Georgi\Събитийно програмиране\project\AppointmentSystem\
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csproj.CopyComplete
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.dll
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.deps.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.runtimeconfig.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.runtimeconfig.dev.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Web.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Data.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Service.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Data.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\bin\Debug\netcoreapp2.1\AppointmentSystem.Service.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csprojAssemblyReference.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csproj.CoreCompileInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.AssemblyInfoInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.AssemblyInfo.cs
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.csproj.CopyComplete
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Web\obj\Debug\netcoreapp2.1\AppointmentSystem.Web.pdb

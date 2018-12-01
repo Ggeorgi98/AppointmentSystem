@@ -5043,7 +5043,7 @@
     "Kendo.Mvc/2016.2.616": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GTMSQaW/erPmIG7C4Nhe+TWJlvHbfpwGKF8mmP0UIBw3FoW79dOGuboaYqmFWo/mlTlGCgOs+qvBLLtKNsCO5g==",
+      "sha512": "sha512-Z/4LyiD0762nCLm0DTHsCSrnmXVHJ1kgj2cGynzrFxAYIqxDJSaIfef8aBWX0Fq1/O4HnO+IerER5UA+eCPuJw==",
       "path": "kendo.mvc/2016.2.616",
       "hashPath": "kendo.mvc.2016.2.616.nupkg.sha512"
     },
@@ -5351,14 +5351,14 @@
     "Microsoft.AspNetCore.Identity/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CenL5JCP/DKAHtzQDIJj747LXqcScB5Ky2BEBM0L7yHUXerBk7MSsNoQSQLTKepkkRLNxgbF4CPx3SHTToaHeA==",
+      "sha512": "sha512-+lAnf/Vzq/yuyZclBx2BnrV2wlt9o/St6M86qaRz+Sya98qMFF2EP2TwFHdDiwno7qMh2WaGfJvlcPrptOKfhQ==",
       "path": "microsoft.aspnetcore.identity/2.1.2",
       "hashPath": "microsoft.aspnetcore.identity.2.1.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ofYHAOc8vo21yljBvemwP4lBXpVQI92haXUYacCj8Tqxax3yXtbFCyaW689XG7MLuRpKS5RLHLRaztW+numkHw==",
+      "sha512": "sha512-Qujd+sPOysZp9zWzNYtgj4rywzaR7Q6pObBUGawsVFbULVh6TRbzIJq28usBB6c4COWbCClJwuaFQkmk+/HRBA==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/2.1.2",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.2.1.2.nupkg.sha512"
     },
@@ -6002,14 +6002,14 @@
     "Microsoft.Extensions.Identity.Core/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XnmvEFQLHKTjpVAN0FcrfLkdOnLVfKF2OjGxZWSficTBniBpIb6W+TyCV1SCKAkybWwE4W1f9bbAwdHyvaGc4A==",
+      "sha512": "sha512-KXL6VeNhGlt3xNeWc2WX8f+NoU/AjWn21HVkaxdxcbWPJfY9bXH6Yvy/Y5dMJ8z73fmuh7e5rBNP7Md1/iLCxg==",
       "path": "microsoft.extensions.identity.core/2.1.2",
       "hashPath": "microsoft.extensions.identity.core.2.1.2.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Stores/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5xX1WzfzmzwG776Np2VmqQNw1cQSOKdmdVAJOFPYKB7prVowCeeE5gG9VLqlM8h5gptRVs14/z/VVFF+pLOpcA==",
+      "sha512": "sha512-56OmWIcJYcxb3w90XVPGgbJDRHLrBbTI0sob2YX+rQUYHDdxy2aNRp6Xyn+gqN4veQhbLybb80/PAL3eH4F/PQ==",
       "path": "microsoft.extensions.identity.stores/2.1.2",
       "hashPath": "microsoft.extensions.identity.stores.2.1.2.nupkg.sha512"
     },
@@ -6611,7 +6611,7 @@
     "System.Data.Common/4.0.1-rc2-24027": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lRXa2KTxiXF9LYhisFYWqokvtkV662ROEVJbtRG4owk/7PRvyV92gZLaDykYuNxtnscesaVIWDRWkfFfaxXmqA==",
+      "sha512": "sha512-r6ZzQiWP0YCe/BNvv9HWL3Md3jQjKdd2hkuv4yPcl1JbEYsHIJ7glsB+0AZzGHmmNiZCt97Sufav5yDAZTGzTw==",
       "path": "system.data.common/4.0.1-rc2-24027",
       "hashPath": "system.data.common.4.0.1-rc2-24027.nupkg.sha512"
     },
@@ -6667,7 +6667,7 @@
     "System.Diagnostics.TraceSource/4.0.0-rc2-24027": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qv6TcsC9l4V79sDIiMJzRmQbIXywMHWpHAnkoVhR+lDxeQp9+rutN+rVL/8vvRD5/a4FiX9SV971K4FaKHBv3w==",
+      "sha512": "sha512-15cmKxfI98FxDERlE7lj60PkIp6+JSp8cqTPKbwiXhNBPyOnI8T8M+DX3vJbw7LECOmdjfYGs78Mzs9SueSLrQ==",
       "path": "system.diagnostics.tracesource/4.0.0-rc2-24027",
       "hashPath": "system.diagnostics.tracesource.4.0.0-rc2-24027.nupkg.sha512"
     },

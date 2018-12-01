@@ -1062,14 +1062,14 @@
     "Microsoft.AspNetCore.Identity/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CenL5JCP/DKAHtzQDIJj747LXqcScB5Ky2BEBM0L7yHUXerBk7MSsNoQSQLTKepkkRLNxgbF4CPx3SHTToaHeA==",
+      "sha512": "sha512-+lAnf/Vzq/yuyZclBx2BnrV2wlt9o/St6M86qaRz+Sya98qMFF2EP2TwFHdDiwno7qMh2WaGfJvlcPrptOKfhQ==",
       "path": "microsoft.aspnetcore.identity/2.1.2",
       "hashPath": "microsoft.aspnetcore.identity.2.1.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ofYHAOc8vo21yljBvemwP4lBXpVQI92haXUYacCj8Tqxax3yXtbFCyaW689XG7MLuRpKS5RLHLRaztW+numkHw==",
+      "sha512": "sha512-Qujd+sPOysZp9zWzNYtgj4rywzaR7Q6pObBUGawsVFbULVh6TRbzIJq28usBB6c4COWbCClJwuaFQkmk+/HRBA==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/2.1.2",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.2.1.2.nupkg.sha512"
     },
@@ -1202,14 +1202,14 @@
     "Microsoft.Extensions.Identity.Core/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XnmvEFQLHKTjpVAN0FcrfLkdOnLVfKF2OjGxZWSficTBniBpIb6W+TyCV1SCKAkybWwE4W1f9bbAwdHyvaGc4A==",
+      "sha512": "sha512-KXL6VeNhGlt3xNeWc2WX8f+NoU/AjWn21HVkaxdxcbWPJfY9bXH6Yvy/Y5dMJ8z73fmuh7e5rBNP7Md1/iLCxg==",
       "path": "microsoft.extensions.identity.core/2.1.2",
       "hashPath": "microsoft.extensions.identity.core.2.1.2.nupkg.sha512"
     },
     "Microsoft.Extensions.Identity.Stores/2.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5xX1WzfzmzwG776Np2VmqQNw1cQSOKdmdVAJOFPYKB7prVowCeeE5gG9VLqlM8h5gptRVs14/z/VVFF+pLOpcA==",
+      "sha512": "sha512-56OmWIcJYcxb3w90XVPGgbJDRHLrBbTI0sob2YX+rQUYHDdxy2aNRp6Xyn+gqN4veQhbLybb80/PAL3eH4F/PQ==",
       "path": "microsoft.extensions.identity.stores/2.1.2",
       "hashPath": "microsoft.extensions.identity.stores.2.1.2.nupkg.sha512"
     },

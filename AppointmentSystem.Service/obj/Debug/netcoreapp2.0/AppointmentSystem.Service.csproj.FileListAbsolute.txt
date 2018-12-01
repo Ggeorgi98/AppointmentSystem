@@ -10,3 +10,15 @@ D:\Georgi\Събитийно програмиране\project\AppointmentSystem\
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csproj.CopyComplete
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.dll
 D:\Georgi\Събитийно програмиране\project\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.deps.json
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Service.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\bin\Debug\netcoreapp2.0\AppointmentSystem.Data.pdb
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csprojAssemblyReference.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.AssemblyInfoInputs.cache
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.AssemblyInfo.cs
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.csproj.CopyComplete
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.dll
+C:\Users\ggerd\Desktop\Нова папка (7)\AppointmentSystem\AppointmentSystem.Service\obj\Debug\netcoreapp2.0\AppointmentSystem.Service.pdb
